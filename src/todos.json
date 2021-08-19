@@ -1,0 +1,22 @@
+{
+    "todos":[
+    {
+        "title":"Tarea matematicas",
+        "responsible":"Juan",
+        "description":"Realizar calculos",
+        "priority":"alta"
+    },
+    {
+        "title":"Tarea sociales",
+        "responsible":"Sofia",
+        "description":"Consultar acerca de historia",
+        "priority":"media"
+    },
+    {
+        "title":"Tarea filosofia",
+        "responsible":"Alejandra",
+        "description":"Buscar distintos filosofos",
+        "priority":"baja"
+    }
+    ]
+}
